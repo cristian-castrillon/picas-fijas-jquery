@@ -1,0 +1,25 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+  padding: 20px;
+}
+
+p {
+  font-weight: bold;
+}
+
+input {
+  text-align: center;
+  margin: 20px;
+}
+
+table {
+  margin: 20px;
+  text-align: center;
+}
+
+th {
+  text-align: center;
+}
